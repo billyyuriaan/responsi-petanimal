@@ -1,0 +1,14 @@
+[
+    {
+        "id" : 1,
+        "name" : "test",
+        "jenis" : "Kucing",
+        "images" : "kucing.jpeg"
+    },
+    {
+        "id" : 1,
+        "name" : "test2",
+        "jenis" : "Anjing",
+        "images" : "anjing.jpeg"
+    }
+]
