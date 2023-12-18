@@ -1,0 +1,37 @@
+[
+    {
+        "id" : 1,
+        "name" : "name",
+        "jenis" : "kucing",
+        "tipe" : "persia",
+        "images" : "cat.jpeg"
+    },
+    {
+        "id" : 2,
+        "name" : "name1",
+        "jenis" : "anjing",
+        "tipe" : "golden retriver",
+        "images" : "dog.jpeg"
+    },
+    {
+        "id" : 3,
+        "name" : "name2",
+        "jenis" : "kucing",
+        "tipe" : "persia",
+        "images" : "cat.jpeg"
+    },
+    {
+        "id" : 4,
+        "name" : "name2",
+        "jenis" : "kucing",
+        "tipe" : "persia",
+        "images" : "dog.jpeg"
+    },
+    {
+        "id" : 5,
+        "name" : "name2",
+        "jenis" : "kucing",
+        "tipe" : "persia",
+        "images" : "cat.jpeg"
+    }
+]
